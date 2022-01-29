@@ -32,7 +32,7 @@ None
 
 <a href="https://text-editor-heroku-7.herokuapp.com/"> Go To Deployed Heroku Page</a>
 
-<img src="https://user-images.githubusercontent.com/91640571/150655156-91b7c956-e3d3-4fa2-addb-a9820b0b672e.png">
+![image](https://user-images.githubusercontent.com/88170746/151680494-51b638e6-b9ce-492b-a9b8-9352b9656f12.png)
 
 
 ## Questions
