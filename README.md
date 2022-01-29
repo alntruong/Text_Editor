@@ -30,7 +30,7 @@ None
 
 ## Deployed Link
 
-<a href="https://rocky-brook-49335.herokuapp.com"> Go To Deployed Heroku Page</a>
+<a href="https://text-editor-heroku-7.herokuapp.com/"> Go To Deployed Heroku Page</a>
 
 <img src="https://user-images.githubusercontent.com/91640571/150655156-91b7c956-e3d3-4fa2-addb-a9820b0b672e.png">
 
